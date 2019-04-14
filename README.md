@@ -2,5 +2,5 @@
 hello-world repo
 
 hello im josh
-i love kim b.
+i love Angelina Pardalis.
 im learning to code
